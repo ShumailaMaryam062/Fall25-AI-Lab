@@ -1,0 +1,13 @@
+prefix=s:/SEMESTER 3/AI(Lab)/Task/.conda/Library
+exec_prefix=s:/SEMESTER 3/AI(Lab)/Task/.conda/Library
+libdir=s:/SEMESTER 3/AI(Lab)/Task/.conda/Library/lib
+sharedlibdir=s:/SEMESTER 3/AI(Lab)/Task/.conda/Library/lib
+includedir=s:/SEMESTER 3/AI(Lab)/Task/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
