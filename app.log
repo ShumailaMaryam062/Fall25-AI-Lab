@@ -1,0 +1,42 @@
+2025-12-03 22:44:22,048 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.111:5000
+2025-12-03 22:44:22,049 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-03 22:44:22,080 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-03 22:44:24,164 - WARNING -  * Debugger is active!
+2025-12-03 22:44:24,167 - INFO -  * Debugger PIN: 302-784-491
+2025-12-03 22:45:50,146 - INFO - 192.168.0.111 - - [03/Dec/2025 22:45:50] "GET / HTTP/1.1" 200 -
+2025-12-03 22:46:06,711 - INFO - 192.168.0.111 - - [03/Dec/2025 22:46:06] "GET / HTTP/1.1" 200 -
+2025-12-03 22:46:10,081 - INFO - 192.168.0.111 - - [03/Dec/2025 22:46:10] "GET / HTTP/1.1" 200 -
+2025-12-03 22:49:05,287 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.111:5000
+2025-12-03 22:49:05,288 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-03 22:49:05,303 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-03 22:49:07,382 - WARNING -  * Debugger is active!
+2025-12-03 22:49:07,384 - INFO -  * Debugger PIN: 302-784-491
+2025-12-03 22:49:17,420 - INFO - 192.168.0.111 - - [03/Dec/2025 22:49:17] "GET / HTTP/1.1" 200 -
+2025-12-03 22:50:29,468 - INFO - 192.168.0.111 - - [03/Dec/2025 22:50:29] "GET / HTTP/1.1" 200 -
+2025-12-03 22:50:31,538 - INFO - 192.168.0.111 - - [03/Dec/2025 22:50:31] "GET / HTTP/1.1" 200 -
+2025-12-03 22:52:47,458 - INFO -  * Detected change in 'S:\\SEMESTER 3\\AI(Lab)\\Task\\Task 12\\app.py', reloading
+2025-12-03 22:52:48,022 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-03 22:52:50,121 - WARNING -  * Debugger is active!
+2025-12-03 22:52:50,124 - INFO -  * Debugger PIN: 302-784-491
+2025-12-03 23:47:30,160 - INFO -  * Detected change in 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-12-03 23:47:30,211 - INFO -  * Detected change in 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\flask\\app.py', reloading
+2025-12-03 23:47:30,300 - INFO - predict took 168.00ms
+2025-12-03 23:47:30,301 - INFO -  * Detected change in 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-12-03 23:47:30,301 - INFO - 192.168.0.111 - - [03/Dec/2025 23:47:30] "POST /predict HTTP/1.1" 200 -
+2025-12-03 23:47:30,302 - INFO -  * Detected change in 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-12-03 23:47:30,302 - INFO -  * Detected change in 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\http\\server.py', reloading
+2025-12-03 23:47:30,303 - INFO -  * Detected change in 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\socketserver.py', reloading
+2025-12-03 23:47:30,304 - INFO -  * Detected change in 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\threading.py', reloading
+2025-12-03 23:47:30,571 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-03 23:47:31,719 - WARNING -  * Debugger is active!
+2025-12-03 23:47:31,720 - INFO -  * Debugger PIN: 302-784-491
+2025-12-03 23:51:14,988 - INFO -  * Detected change in 'S:\\SEMESTER 3\\AI(Lab)\\Task\\Task 12\\app.py', reloading
+2025-12-03 23:51:15,471 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-03 23:51:16,377 - WARNING -  * Debugger is active!
+2025-12-03 23:51:16,378 - INFO -  * Debugger PIN: 302-784-491
